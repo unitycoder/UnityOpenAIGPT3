@@ -58,3 +58,8 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# ignore key from github
+StreamingAssets/secretkey.txt
+StreamingAssets/secretkey.txt.meta
+secretkey.txt
+secretkey.txt.meta
