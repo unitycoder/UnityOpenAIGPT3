@@ -7,7 +7,7 @@
 
 ### SETTINGS
 See "#Scripts" gameobject, it has model name variable<br>
-![image](https://user-images.githubusercontent.com/5438317/211652157-7d3639c4-6f27-48f0-ad7c-0bb9fa6276b7.png)
+![image](https://user-images.githubusercontent.com/5438317/211652157-7d3639c4-6f27-48f0-ad7c-0bb9fa6276b7.png)<br>
 Rest of the settings are currently hard-coded in the OpenAI.cs Execute() method, where it fill the POST request json data.<br>
 ![image](https://user-images.githubusercontent.com/5438317/211652664-aa27d8dc-1e5e-4642-aed6-351d1402cf7e.png)
 
