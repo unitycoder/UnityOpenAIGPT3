@@ -3,7 +3,7 @@
 ### USAGE
 - Get your API key from https://beta.openai.com/account/api-keys
 - Save your API key into "StreamingAssets/secretkey.txt" (or other path and modify the api key loading path)
-- Play main.scene, test some prompt
+- Play main.scene, test some prompt (currently uses "Completions" API only)
 
 ### SETTINGS
 See "#Scripts" gameobject, it has model name variable<br>
