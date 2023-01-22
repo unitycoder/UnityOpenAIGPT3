@@ -14,6 +14,8 @@ Rest of the settings are currently hard-coded in the OpenAI.cs Execute() method,
 ### IMAGES
 ![image](https://user-images.githubusercontent.com/5438317/211652295-d043dcb6-f702-4ea1-8e08-bcf8f201e1f8.png)
 
-
-### Website
+### WEBSITE
 https://unitycoder.com/blog/2023/01/10/using-openai-api-with-webrequest-from-unity/
+
+### ALTERNATIVES
+- https://github.com/unitycoder/UnityOpenAIGPT3/wiki/Alternatives
